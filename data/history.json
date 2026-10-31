@@ -1,0 +1,202 @@
+[
+  {
+    "city": "R\u0101ich\u016br",
+    "country": "India",
+    "temperature": 28.1,
+    "humidity": 61.0,
+    "wind_speed": 10.4,
+    "pressure": 968.7,
+    "description": "Partly cloudy",
+    "timestamp": "2026-10-21 23:54:39"
+  },
+  {
+    "city": "Vidisha",
+    "country": "India",
+    "temperature": 22.8,
+    "humidity": 54.0,
+    "wind_speed": 1.0,
+    "pressure": 966.1,
+    "description": "Clear sky",
+    "timestamp": "2026-10-22 01:36:13"
+  },
+  {
+    "city": "R\u0101ich\u016br",
+    "country": "India",
+    "temperature": 26.9,
+    "humidity": 62.0,
+    "wind_speed": 11.2,
+    "pressure": 967.5,
+    "description": "Mainly clear",
+    "timestamp": "2026-10-22 01:37:11"
+  },
+  {
+    "city": "Mumbai",
+    "country": "India",
+    "temperature": 30.0,
+    "humidity": 54.0,
+    "wind_speed": 4.1,
+    "pressure": 1010.3,
+    "description": "Clear sky",
+    "timestamp": "2026-10-22 01:38:32"
+  },
+  {
+    "city": "BHOPAL",
+    "country": "Demo",
+    "temperature": 29.032965172557372,
+    "humidity": 82.03999183911154,
+    "wind_speed": 15.083203202870576,
+    "pressure": 1009.9469112976509,
+    "description": "Demo data",
+    "timestamp": "2026-10-16 01:41:52"
+  },
+  {
+    "city": "BHOPAL",
+    "country": "Demo",
+    "temperature": 25.908478948638457,
+    "humidity": 63.58999043883729,
+    "wind_speed": 24.907671030875115,
+    "pressure": 1008.5140109177672,
+    "description": "Demo data",
+    "timestamp": "2026-10-17 01:41:52"
+  },
+  {
+    "city": "BHOPAL",
+    "country": "Demo",
+    "temperature": 27.203818444899944,
+    "humidity": 43.19405869123898,
+    "wind_speed": 13.11316272135053,
+    "pressure": 1011.6557115723834,
+    "description": "Demo data",
+    "timestamp": "2026-10-18 01:41:52"
+  },
+  {
+    "city": "BHOPAL",
+    "country": "Demo",
+    "temperature": 26.287025418065767,
+    "humidity": 84.56980796824439,
+    "wind_speed": 20.73749207870282,
+    "pressure": 1017.9990204545092,
+    "description": "Demo data",
+    "timestamp": "2026-10-19 01:41:52"
+  },
+  {
+    "city": "BHOPAL",
+    "country": "Demo",
+    "temperature": 28.759765960485023,
+    "humidity": 40.351705387667366,
+    "wind_speed": 5.758493612626134,
+    "pressure": 1007.5034748098877,
+    "description": "Demo data",
+    "timestamp": "2026-10-20 01:41:52"
+  },
+  {
+    "city": "BHOPAL",
+    "country": "Demo",
+    "temperature": 32.2120435786584,
+    "humidity": 54.185591641453364,
+    "wind_speed": 5.945744721228361,
+    "pressure": 1009.756134004871,
+    "description": "Demo data",
+    "timestamp": "2026-10-21 01:41:52"
+  },
+  {
+    "city": "BHOPAL",
+    "country": "Demo",
+    "temperature": 25.09714569412638,
+    "humidity": 45.9650163436817,
+    "wind_speed": 14.155534729593647,
+    "pressure": 1017.2818315789527,
+    "description": "Demo data",
+    "timestamp": "2026-10-22 01:41:52"
+  },
+  {
+    "city": "RAICHUR",
+    "country": "Demo",
+    "temperature": 32.651115992871205,
+    "humidity": 61.923699722686294,
+    "wind_speed": 6.112791807144986,
+    "pressure": 1017.4733139402985,
+    "description": "Demo data",
+    "timestamp": "2026-10-16 01:42:55"
+  },
+  {
+    "city": "RAICHUR",
+    "country": "Demo",
+    "temperature": 36.39763571204256,
+    "humidity": 77.77352535171225,
+    "wind_speed": 16.784953592831393,
+    "pressure": 1000.7926245049161,
+    "description": "Demo data",
+    "timestamp": "2026-10-17 01:42:55"
+  },
+  {
+    "city": "RAICHUR",
+    "country": "Demo",
+    "temperature": 31.995125601977215,
+    "humidity": 69.50616382007001,
+    "wind_speed": 22.001922775483596,
+    "pressure": 1011.7523291459199,
+    "description": "Demo data",
+    "timestamp": "2026-10-18 01:42:55"
+  },
+  {
+    "city": "RAICHUR",
+    "country": "Demo",
+    "temperature": 36.11962433115992,
+    "humidity": 54.9966956079997,
+    "wind_speed": 22.840428440210466,
+    "pressure": 1014.7845894709897,
+    "description": "Demo data",
+    "timestamp": "2026-10-19 01:42:55"
+  },
+  {
+    "city": "RAICHUR",
+    "country": "Demo",
+    "temperature": 32.83928542341229,
+    "humidity": 60.81381854264027,
+    "wind_speed": 9.259166990177874,
+    "pressure": 1013.4428574599542,
+    "description": "Demo data",
+    "timestamp": "2026-10-20 01:42:55"
+  },
+  {
+    "city": "RAICHUR",
+    "country": "Demo",
+    "temperature": 36.845729453964346,
+    "humidity": 67.08401656727949,
+    "wind_speed": 10.719053914981515,
+    "pressure": 1002.6967852461992,
+    "description": "Demo data",
+    "timestamp": "2026-10-21 01:42:55"
+  },
+  {
+    "city": "RAICHUR",
+    "country": "Demo",
+    "temperature": 34.325574753389745,
+    "humidity": 79.818718478671,
+    "wind_speed": 10.573078522311457,
+    "pressure": 1015.8721325487879,
+    "description": "Demo data",
+    "timestamp": "2026-10-22 01:42:55"
+  },
+  {
+    "city": "Bhopal",
+    "country": "India",
+    "temperature": 21.0,
+    "humidity": 83.0,
+    "wind_speed": 6.1,
+    "pressure": 958.0,
+    "description": "Clear sky",
+    "timestamp": "2026-10-31 23:33:09"
+  },
+  {
+    "city": "Bhopal",
+    "country": "India",
+    "temperature": 20.7,
+    "humidity": 85.0,
+    "wind_speed": 7.8,
+    "pressure": 957.0,
+    "description": "Clear sky",
+    "timestamp": "2026-11-01 01:15:49"
+  }
+]
